@@ -1,0 +1,11 @@
+format: jb-book
+root: docs/intro
+parts:
+- caption: SQL
+  chapters:
+  - file: docs/formatting
+- caption: Random
+  chapters:
+  - file: docs/markdown
+  - file: docs/notebooks
+  - file: docs/markdown-notebooks

@@ -4,6 +4,9 @@ parts:
 - caption: SQL
   chapters:
   - file: docs/formatting
+- caption: Finance
+  chapters:
+  - file: docs/value-stock
 - caption: Random
   chapters:
   - file: docs/markdown
